@@ -1,6 +1,6 @@
 {
-  "name": "agent-ready-api",
-  "version": "0.1.0",
+  "name": "@asterpay/agent-ready",
+  "version": "0.1.1",
   "description": "Make any API AI-agent discoverable — robots.txt, llms.txt, agent.json, MCP endpoint, scanner filter, CORS in one Fastify plugin",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -40,15 +40,16 @@
     "node": ">=18.0.0"
   },
   "keywords": [
+    "asterpay",
     "agent-ready",
-    "agent-ready-api",
     "ai-agents",
     "discovery",
     "llms.txt",
     "robots.txt",
     "mcp",
     "a2a",
-    "fastify"
+    "fastify",
+    "x402"
   ],
   "repository": {
     "type": "git",
